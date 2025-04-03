@@ -1,0 +1,14 @@
+{
+  "name": "oa-coder",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.0",
+    "electron": "^28.1.0",
+    "openai": "^4.24.1",
+    "screenshot-desktop": "^1.15.0"
+  }
+}
