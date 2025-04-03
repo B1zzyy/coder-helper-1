@@ -1,5 +1,5 @@
 
 {
-  "apiKey": "AIzaSyAhHJNlwU4cmtT3DfemX41bRnLwHjsMHk0",
+  "apiKey": "YOUR-GEMINI-API-KEY",
   "model": "gemini-1.5-flash"
 }
