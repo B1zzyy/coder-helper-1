@@ -2,7 +2,7 @@
 
 - [Node.js](https://nodejs.org/) (v14 or later recommended)
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
-- A GEMINI API key
+- A GEMINI API key (Get yours by going to: https://ai.google.dev/gemini-api/docs/api-key)
 
 ## Installation
 
